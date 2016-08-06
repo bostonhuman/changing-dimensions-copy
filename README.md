@@ -4,3 +4,4 @@ This example demonstrates how the .height() and .width() methods can be used to 
 ## Components that make the app run
 * A variable called listHeight is created to store the height of the page container. It is obtained using the .height() method.
 * The height of the page is written at the end of the list using the .append() method and may vary between browsers.
+* The selector picks all the li elements and sets their width to 50 percents of their current width using the .width() method.
