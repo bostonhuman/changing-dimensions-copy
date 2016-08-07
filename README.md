@@ -6,3 +6,10 @@ This example demonstrates how the .height() and .width() methods can be used to 
 * The height of the page is written at the end of the list using the .append() method and may vary between browsers.
 * The selector picks all the li elements and sets their width to 50 percents of their current width using the .width() method.
 * These two statements set the width of the first list item to 125px and the width of the second list item to be 75 percents of the width it was when the page loaded.
+
+## How run the app in local
+* In your terminal type:
+```
+git clone https://github.com/bostonhuman/changing-dimensions
+```
+* Open `dimensions.html` to run the app.
